@@ -18,4 +18,4 @@ A simple file organizer tool that automatically organizes your files into catego
     'Probably_memes': ['.jpg', '.jpeg', '.png', '.gif', '.bmp', '.tiff', '.mp4', '.avi', '.mov', '.mkv', '.flv'],
 }
 .
-- you may change categories as you like 
+- You may change categories as you like 
